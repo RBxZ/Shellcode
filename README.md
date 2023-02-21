@@ -1,5 +1,5 @@
 # Shellcode
-An assembly and C shellcode that is recieved as data in a victim and when activated sets up a message box.
+An assembly and C shellcode that is recieved as data in a victim and by using a vulnerability to activate it sets up a message box.
 
 How does it work?
 I wrote it first in C, as you can see in the file sellcode_c_part. 
